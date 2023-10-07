@@ -1,0 +1,10 @@
+/* Estilo para botones deshabilitados */
+button.disabled {
+    background-color: #e21e1e; 
+    color: #55df16; /* Cambia el color del texto a un tono más oscuro */
+    cursor: not-allowed; /* Cambia el cursor a "no permitido" */
+}
+
+body {
+    background-color: grey;
+}
